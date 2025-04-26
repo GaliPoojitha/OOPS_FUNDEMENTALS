@@ -1,4 +1,6 @@
 **Learn OOPs Concepts in Java - A Simple Guide**
+
+
 Struggling in understanding OOPS! i will just say one thing when ever you are starting with OOPS dont study it like a theory - study by imagining the real world entities
 First of all why OOPS? - its really simple - you go to supermarket if you dont know what to buy or what you can buy you will be perplexed right?
 thats where the your moms "chitti" (for telugu ppl) or groceries list will be you saviour you know what  you can buy . 
