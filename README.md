@@ -5,7 +5,7 @@ Struggling in understanding OOPS! i will just say one thing when ever you are st
 First of all why OOPS? - its really simple - you go to supermarket if you dont know what to buy or what you can buy you will be perplexed right?
 thats where the your moms "chitti" (for telugu ppl) or groceries list will be you saviour you know what  you can buy . 
 Similar to that objects know what they can do and where they came from through their class(lets say family) .and with that list of properties (you chitti) and the capability of your buying/paying(function) you can go to any super market and do the things which you can do ---just by defining what you know.
-So -thats where you know OOPS importance where you can have differnt families which have differnt children with their own chittis to do go wherever they want and do perform their funtions!!!!!!!!
+So -thats where you know OOPS importance where you can have differnt families which have differnt children with their own chittis to do go wherever they want and do perform their funtions!!- just like what objects in a code or project does.
 
 Welcome to this simple project where we cover all the essential Object-Oriented Programming (OOP) concepts and Java keywords with easy-to-understand examples. This guide is perfect for beginners and will help you get a solid understanding of OOPs in just 10 minutes!
 
